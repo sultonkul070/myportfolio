@@ -203,7 +203,7 @@ export default {
           icon: <GitHubIcon />,
         },
         {
-          link: "https://cartersn.netlify.app/",
+          link: "https://carter-sn.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
@@ -224,7 +224,7 @@ export default {
           icon: <GitHubIcon />,
         },
         {
-          link: "https://maxwaysn.netlify.app/",
+          link: "https://maxway-sn.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
@@ -245,7 +245,7 @@ export default {
           icon: <GitHubIcon />,
         },
         {
-          link: "https://imagegallerysn.netlify.app",
+          link: "https://imagegallery-sn.netlify.app",
           icon: <ArrowForwardIcon />,
         },
       ],
@@ -267,7 +267,7 @@ export default {
           icon: <GitHubIcon />,
         },
         {
-          link: "https://myportfolio2sn.netlify.app/",
+          link: "https://myportfolio1-sn.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
