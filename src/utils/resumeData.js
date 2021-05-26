@@ -182,7 +182,7 @@ export default {
           icon: <GitHubIcon />,
         },
         {
-          link: "https://myportfolio.netlify.app/",
+          link: "https://myportfolio-sn.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
