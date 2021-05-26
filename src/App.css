@@ -1,5 +1,6 @@
 :root {
   --main-color: #ffc500;
+  --main-transition: all 0.7s ease-out;
 }
 
 /* Margins and Paddings */

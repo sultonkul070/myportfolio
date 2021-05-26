@@ -12,7 +12,10 @@
 .customTabs .active {
   color: var(--main-color) !important;
 }
-
+.customTabs .customTabs_item:hover {
+  color: var(--main-color) !important;
+  transition: var(--main-transition) !important;
+}
 /* End of Tabs */
 
 /* Cards */
@@ -59,9 +62,10 @@
 }
 .projectDialog .projectDialog_icon:hover {
   color: var(--main-color) !important;
+  transition: var(--main-transition) !important;
 }
 
 .projectDialog .projectDialog_icon > .MuiSvgIcon-root {
-  font-size: 30px !important;
+  font-size: 40px !important;
 }
 /* End of Dialog */

@@ -13,10 +13,12 @@
 
 .header .header_link:hover {
   color: var(--main-color) !important;
+  transition: var(--main-transition) !important;
 }
 
 .header .header_link_active {
   color: var(--main-color) !important;
+  /* transition: var(--main-transition) !important; */
 }
 
 .header .header_home {
@@ -49,4 +51,5 @@
 }
 .header .header_right > a > .MuiSvgIcon-root:hover {
   color: var(--main-color) !important;
+  transition: var(--main-transition) !important;
 }

@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="footer">
       <div className="footer_left">
         <Typography className="footer_name">
-          <a href="/">{resumeData.name}</a>
+          <a href="/">My Portfolio</a>
         </Typography>
       </div>
       <div className="footer_right">

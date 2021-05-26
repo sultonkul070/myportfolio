@@ -148,9 +148,9 @@ export default {
     {
       tag: "Next JS",
       images: [
-        "../assets/projects/project-10.png",
-        "../assets/projects/project-11.png",
-        "../assets/projects/project-11.png",
+        "https://img1.androidappsapk.co/CrXCkjFClODfRQtJL4mo18dYkVqe5Cty0zj6fApcJKBpN60bQQCgZJ9gsTjxH-3MpOs=h300",
+        "https://www.eduon.uz/images/banner-animation.png",
+        "https://speaker.eduon.uz/media/Speaker/IMG_20210406_180843_173.jpg",
       ],
       title: "EduOn",
       caption: "Online knowledge platform",
@@ -169,20 +169,20 @@ export default {
     {
       tag: "React",
       images: [
-        "../assets/projects/project-20.png",
-        "../assets/projects/project-21.png",
-        "../assets/projects/project-22.png",
+        "https://static-cse.canva.com/blob/136926/portfolio.png",
+        "https://blog.corp-site.envato.com/cdn-cgi/image/width=1200,quality=95,format=auto/uploads/2020/06/SOC101_Portfolio_Guide.png",
+        "https://miro.medium.com/max/3840/1*ZEUZtH8wL9vUDLrn5guwOQ.png",
       ],
       title: "My Portfolio",
       caption: "Own resume portfolio",
       description: "Own resume portfolio",
       links: [
         {
-          link: "https://www.github.com/Sultonkul070",
+          link: "https://github.com/sultonkul070/myportfolio",
           icon: <GitHubIcon />,
         },
         {
-          link: "https://www.facebook.com/SultonkulNortoylokov",
+          link: "https://myportfolio.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
@@ -190,20 +190,20 @@ export default {
     {
       tag: "React",
       images: [
-        "../assets/projects/project-30.png",
-        "../assets/projects/project-31.png",
-        "../assets/projects/project-32.png",
+        "https://pda-pune.com/wp-content/uploads/2021/04/how-ecommerce-companies-can-care-for-their-customers-5eb56dfe6c64e-1520x800-1.png",
+        "https://lh3.googleusercontent.com/proxy/zVEsT_T9VeUw4gWCrJexAhlKyKO_wyDBeYojnPseOYDC4Z24JU6ndoBpEcIbzRXyNEszA8adADmKUOyLBwwvrq4VSwpsgRgkMhwTA4Gnxi4hmhB9",
+        "https://www.openbusinesscouncil.org/wp-content/uploads/2020/07/e-commerce-definizione-cos-e.jpg",
       ],
       title: "Carter",
       caption: "Online e-commerce platform",
       description: "Online e-commerce platform",
       links: [
         {
-          link: "https://www.github.com/Sultonkul070",
+          link: "https://github.com/sultonkul070/cartersn",
           icon: <GitHubIcon />,
         },
         {
-          link: "https://www.facebook.com/SultonkulNortoylokov",
+          link: "https://cartersn.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
@@ -211,20 +211,20 @@ export default {
     {
       tag: "React",
       images: [
-        "../assets/projects/project-40.png",
-        "../assets/projects/project-41.png",
-        "../assets/projects/project-42.png",
+        "https://myday.uz/userfiles/14/images/IMG_9296(1).jpg",
+        "https://pasta.uz/upload/products/%D0%BA%D0%BB%D0%B0%D0%B1%20%D1%81%D1%8D%D0%BD%D0%B4%D0%B2%D0%B8%20%D1%8F%D0%BD%D0%B3%D0%B8%D0%BB%D0%B8%D0%BA%2025000.jpg",
+        "https://avatars.mds.yandex.net/get-altay/1871013/2a0000016ded8939d608bdd065933eefcf2b/XXL",
       ],
       title: "Max Way",
-      caption: "Birichi milliy fastfood",
+      caption: "Birinchi milliy fastfood",
       description: "Birichi milliy fastfood",
       links: [
         {
-          link: "https://www.github.com/Sultonkul070",
+          link: "https://github.com/sultonkul070/maxway",
           icon: <GitHubIcon />,
         },
         {
-          link: "https://www.facebook.com/SultonkulNortoylokov",
+          link: "https://maxwaysn.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
@@ -232,20 +232,20 @@ export default {
     {
       tag: "Node Js",
       images: [
-        "../assets/projects/project-50.png",
-        "../assets/projects/project-51.png",
-        "../assets/projects/project-52.png",
+        "https://i.ytimg.com/vi/wmeJMOxyD-w/maxresdefault.jpg",
+        "https://wpdatatables.com/wp-content/uploads/2019/09/Bootstrap-CSS-Image-Gallery.jpg",
+        "https://freefrontend.com/assets/img/css-gallery/reflective-photo-gallery-wall-experiment.jpg",
       ],
       title: "Image Gallery",
       caption: "Mega image gallery",
       description: "Mega gallery where you can find images you want",
       links: [
         {
-          link: "https://www.github.com/Sultonkul070",
+          link: "https://github.com/sultonkul070/image-gallery",
           icon: <GitHubIcon />,
         },
         {
-          link: "https://www.facebook.com/SultonkulNortoylokov",
+          link: "https://imagegallerysn.netlify.app",
           icon: <ArrowForwardIcon />,
         },
       ],
@@ -253,9 +253,9 @@ export default {
     {
       tag: "React",
       images: [
-        "../assets/projects/project-60.png",
-        "../assets/projects/project-61.png",
-        "../assets/projects/project-62.png",
+        "https://miro.medium.com/max/1100/1*OlgqUIhvl5-9dZISlZ2-yQ.jpeg",
+        "https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/603823eca4b46344229b30f8_portfolio_course.png",
+        "https://elementor.com/cdn-cgi/image/f=auto,w=1024,h=536/marketing/wp-content/uploads/sites/9/2021/03/Portfolio-Website-Templates_1200x628-1024x536.png",
       ],
       title: "First Portfolio",
       caption: "My first portfolio",
@@ -263,11 +263,11 @@ export default {
         "My first simple portfolio which is made by HTML, CSS and JavaScript",
       links: [
         {
-          link: "https://www.github.com/Sultonkul070",
+          link: "https://github.com/sultonkul070/myportfolio2sn",
           icon: <GitHubIcon />,
         },
         {
-          link: "https://www.facebook.com/SultonkulNortoylokov",
+          link: "https://myportfolio2sn.netlify.app/",
           icon: <ArrowForwardIcon />,
         },
       ],
